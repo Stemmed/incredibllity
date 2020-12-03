@@ -10,3 +10,8 @@
 <img src="https://img.shields.io/badge/daniel@wakamat.su-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="daniel@wakamat.su"> <img src="https://img.shields.io/badge/Agent%230001-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" >
 
 <hr>
+
+### Previous Work
+
+- Zonix LLC
+- ForceByte LLC
