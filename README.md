@@ -11,4 +11,5 @@
 ### Previous Work
 
 - Zonix LLC
-- ForceByte LLC
+- ForceByte LLC|
+- Selix LLC
